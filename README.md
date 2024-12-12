@@ -9,5 +9,6 @@
 I created a route table using the lita VPC 
 below is my screenshot
 ![route table creation](Miracle Route table.jpeg)
+
  
    
